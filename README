@@ -1,3 +1,6 @@
 1.Hitokoto是什么？
-http://hitokoto.us
-2.Hitokoto这是真么
+答:http://hitokoto.us
+2.这个项目是什么？
+答:hitokoto.us的java接口
+3.调用方法
+HitokotoFactory.getHitokoto()或者HitokotoFactory.getHitokotoByJson()
