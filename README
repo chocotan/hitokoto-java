@@ -5,3 +5,6 @@
 3.调用方法
 HitokotoFactory.getHitokoto()或者HitokotoFactory.getHitokotoByJson()
 可以获得一个Hitokoto的bean对象
+4.需要用到的lib
+gson-2.2.2.jar
+如果不想添加这个jar可以删除HitokotoFactory的getHiokotoByJson方法
