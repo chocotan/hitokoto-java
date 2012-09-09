@@ -4,3 +4,4 @@
 答:hitokoto.us的java接口
 3.调用方法
 HitokotoFactory.getHitokoto()或者HitokotoFactory.getHitokotoByJson()
+可以获得一个Hitokoto的bean对象
